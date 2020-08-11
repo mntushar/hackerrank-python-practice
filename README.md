@@ -1,1 +1,1 @@
-# hackerrank-python-practice
+# hackerrank python practice all code solve
